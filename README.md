@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hammadali132&label=Profile%20views&color=0e75b6&style=flat" alt="hammadali132" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hammadali132" alt="hammadali132" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hammadali132" alt="hammadali132" /></a> </p> -->
 
 - 🔭 I’m currently working on [Agentic Novelist](https://github.com/HammadAli132/Agentic-Novelist)
 
