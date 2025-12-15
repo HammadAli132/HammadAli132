@@ -190,6 +190,9 @@ expertise = {
   <a href="https://github.com/HammadAli132/Agentic-Novelist">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=hammadali132&repo=Agentic-Novelist&theme=tokyonight&hide_border=true" alt="Agentic Novelist"/>
   </a>
+  <a href="https://github.com/HammadAli132/Boxer-Pose-Estimation">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hammadali132&repo=Boxer-Pose-Estimation&theme=tokyonight&hide_border=true" alt="Boxer Pose Estimation"/>
+  </a>
 </div>
 
 ---
